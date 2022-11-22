@@ -5,7 +5,7 @@ let onCatClick = function(e) {
     stashePic.style.left = "100px";
 };
 
-catPic.addEventListener("click", onCatClick);
+catPic.addEventListener("mouseover", onCatClick);
 
 
 
